@@ -13,7 +13,7 @@ github
 # backlog:
 performance
 design
-next feature
+auto refresh
 
 ## done:
 icons creation
